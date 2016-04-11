@@ -1,0 +1,19 @@
+{
+  "name": "figgis",
+  "version": "1.0.0",
+  "description": "manage and track personal accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likethescale/figgis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likethescale/figgis/issues"
+  },
+  "homepage": "https://github.com/likethescale/figgis#readme"
+}
