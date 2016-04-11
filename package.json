@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/likethescale/figgis/issues"
   },
-  "homepage": "https://github.com/likethescale/figgis#readme"
+  "homepage": "https://github.com/likethescale/figgis#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
